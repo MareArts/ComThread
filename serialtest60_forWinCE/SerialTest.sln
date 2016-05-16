@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SerialTest", "SerialTest\SerialTest.vcproj", "{867AE073-F408-4FDE-9249-9BC74F48610F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|SDK3 (ARMV4I) = Debug|SDK3 (ARMV4I)
+		Release|SDK3 (ARMV4I) = Release|SDK3 (ARMV4I)
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{867AE073-F408-4FDE-9249-9BC74F48610F}.Debug|SDK3 (ARMV4I).ActiveCfg = Debug|SDK3 (ARMV4I)
+		{867AE073-F408-4FDE-9249-9BC74F48610F}.Debug|SDK3 (ARMV4I).Build.0 = Debug|SDK3 (ARMV4I)
+		{867AE073-F408-4FDE-9249-9BC74F48610F}.Debug|SDK3 (ARMV4I).Deploy.0 = Debug|SDK3 (ARMV4I)
+		{867AE073-F408-4FDE-9249-9BC74F48610F}.Release|SDK3 (ARMV4I).ActiveCfg = Release|SDK3 (ARMV4I)
+		{867AE073-F408-4FDE-9249-9BC74F48610F}.Release|SDK3 (ARMV4I).Build.0 = Release|SDK3 (ARMV4I)
+		{867AE073-F408-4FDE-9249-9BC74F48610F}.Release|SDK3 (ARMV4I).Deploy.0 = Release|SDK3 (ARMV4I)
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
